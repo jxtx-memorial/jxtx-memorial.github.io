@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Memorials
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Memorials from the CMDB Community</h1>
 		</header>
 
 <!-- Content -->
