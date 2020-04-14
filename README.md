@@ -1,73 +1,34 @@
-# Forty - Jekyll Theme
+# Readme
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+This repo was forked from the starter website repo for the [Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme). I've also created a Github account for the [jxtx memorial email](https://github.com/jxtx-memorial), which is where we'll eventually publish the website officially, but I figured we could work on it from here for now and then just move all the docs over.
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+# Guide to useful files in this repo
 
-# How to Use
+`_includes` - HTML files for formatting of website elements that appear on every page. Mostly I've been changing `header.html` and `footer.html`. `head.html` is also important but I haven't tried modifying it yet. `tiles.html` is for formatting "tiles" that can appear on the home page (you can look at the [Forty sample website](https://andrewbanchich.github.io/forty-jekyll-theme/) to see what I mean) - I didn't want to deal with these, but we can potentially modify the home page in the future to include this.
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+`_layouts` - HTML files for formatting of specific page styles. I use `page.html` as the formatting for the memorials page, and `home.html` as the formatting for the homepage. `landing.html` is also nice.
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this repository and create a branch named `gh-pages`, then start editing the `_config.yml` file.
+`_posts` - docs in here don't show up on the actual website. I put two sample page templates here that I got from forking the repository (`elements.md`, `landing.md`). Super useful for looking at formatting examples.
 
-# Added Features
+`_sass/layout` - CSS files for formatting of some components.
 
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* Set **featured images** in front matter.
+`assets` - images, formatting CSS files, javascript (`js` plugins).
 
-# Issues
+`.gitignore` - add files you don't want Git to track.
 
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/forty-jekyll-theme) and I will be more than happy to help!
+`Gemfile` - for jekyll, we can leave this alone for now.
 
-Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com).
+`_config.yml` - place to put website-wide info (email, title, etc.).
 
-The GitHub repository is simply a mirror of the GitLab repository.
+`forty_jekyll_theme.gemspec` - more jekyll stuff that we can ignore.
 
-# Credits
+It seems like any markdown (`.md`) or HTML (`.html`) docs we end up adding to this main repository will be added to the website as separate pages, and automatically incorporated into the navigation. So that's how we create new pages.
 
-Original README from HTML5 UP:
+`index.md` - content for the website's home page. It says `md` but I ended up writing it in HTML.
 
-```
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+`memorials.md` - template for student/faculty submissions about James.
+
+`_data` - right now, only contains a file that creates the website's navigation bar.
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
-```
-
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
