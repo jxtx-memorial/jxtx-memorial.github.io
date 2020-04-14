@@ -18,6 +18,8 @@ This repo was forked from the starter website repo for the [Forty theme](https:/
 
 ## Website content
 
+It seems like any markdown (`.md`) or HTML (`.html`) docs we end up adding to this main repository will be added to the website as separate pages, and automatically incorporated into the navigation. So that's how we create new pages.
+
 `_config.yml` - place to put website-wide info (email, title, etc.).
 
 `index.md` - content for the website's home page. It says `md` but I ended up writing it in HTML.
@@ -31,5 +33,3 @@ This repo was forked from the starter website repo for the [Forty theme](https:/
 `Gemfile` - for jekyll, we can leave this alone for now.
 
 `forty_jekyll_theme.gemspec` - more jekyll stuff that we can ignore.
-
-It seems like any markdown (`.md`) or HTML (`.html`) docs we end up adding to this main repository will be added to the website as separate pages, and automatically incorporated into the navigation. So that's how we create new pages.
