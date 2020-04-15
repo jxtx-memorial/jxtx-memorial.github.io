@@ -3,8 +3,8 @@ title: In Memory of James Taylor
 subtitle:
 email:  jxtx.bio.memorial@gmail.com
 description: The JHU Department of Biology and Graduate Program in Cell, Molecular, Developmental Biology and Biophysics remember James and his impact on our community.
-baseurl: "/website_test_v2" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: https://jxtx-memorial.github.io # the base hostname & protocol for your site
 author:
 street_address:
 city:

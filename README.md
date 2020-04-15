@@ -1,8 +1,6 @@
 # Readme
 
-This repo was forked from the starter website repo for the [Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme). I've also created a Github account for the [jxtx memorial email](https://github.com/jxtx-memorial), which is where we'll eventually publish the website officially, but I figured we could work on it from here for now and then just move all the docs over.
-
-Link in the repo description is wrong as the repo name got changed, [real link is here: https://stephaniemyan.github.io/website_test_v2/](https://stephaniemyan.github.io/website_test_v2/)
+This repo was forked from the starter website repo for the [Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme).
 
 # Guide to useful files in this repo
 
