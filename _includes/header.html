@@ -1,8 +1,10 @@
 <!-- Wrapper -->
-<div id="wrapper" style="background-color:black">
+<div id="wrapper">
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	<!-- unsuccessful attempt to insert logo into the header -->
+	<!-- <logo-image src="assets/images/logo_v2.png" alt="logo" /> -->
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
 		<a href="#menu">Menu</a>
