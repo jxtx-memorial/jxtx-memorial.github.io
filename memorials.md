@@ -8,6 +8,13 @@ image: null
 author: null
 show_tile: false
 ---
+<head>
+<style type="text/css">
+<!--
+.tab { text-indent: 40px; }
+-->
+</style>
+</head>
 
 <!-- Main -->
 <div id="main" class="alt">
@@ -28,7 +35,7 @@ show_tile: false
 	<p align="justify">But more than losing an amazing boss and scientific juggernaut, I am going to miss the James that many fewer people got to see or know. There were special moments, on a long ride to a conference, chatting over a beer, or sometimes in the most unexpected situations when "Science James" would slip away and playful geek would come out on full display, whether discussing comic books, the singularity, Doctor Who, music, books, and anything else in his extensive catalog of personal interests. He always felt like the coolest and nicest person that you wanted nothing more than to please and be liked by.</p>
 	<p align="justify">The graduate students at his first professorship nicknamed him 'the rock star'. I don't know if they ever realized how accurate and far from the truth at the same time this was. If anyone had an amazing sense of style and presence, from the shoes up, it was James. But he was also a humble and soft-spoke person, never looking to steal the spotlight or dominate. Instead, he was an advocate, both for those he personally worked with, and for all of the scientific community, pushing for honesty, fairness, transparency, responsibility, accessibility, and reproducibility.</p>
 	<p align="justify">While his loss is a wound that may never heal, I am immeasurably enriched for having known, learned from, worked with, and shared so much of my life with James. Thank you for everything.</p>
-	<b>-Michael Sauria</b>
+	<p class="tab"><b>-Michael Sauria</b></p>
 </div>
 
 <div class="box">
