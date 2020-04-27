@@ -62,7 +62,7 @@ show_tile: false
 	<b>—Boris Brenerman</b>
 </div>
 
-<span class="image fit"><img src="assets/images/TaylorLab3.jpg" alt="The Taylor Lab out to lunch"/></span>
+<img src="assets/images/TaylorLab3.jpg" alt="The Taylor Lab out to lunch" width = "800" height = "450" align="center"/>
 
 
 <hr class="major" />
@@ -105,7 +105,7 @@ wonderful human being.</p>
 	<p align="justify">I am so sad for this loss of my mentor, colleague, and friend. James is one of the main reasons that I came to Hopkins in 2018, as well as one of the main reasons that the experience has been so positive.</p>
 	<p align="justify">Through his efforts in our department, James demonstrated the relevance and value of quantitative and computational research to all areas of biology. He dedicated his life’s work to developing tools and platforms to make computational genomic research more accessible, reliable, and robust—challenging gatekeeping in all its forms.</p>
 	<p align="justify">As my faculty advisor, James’s calming demeanor was essential to navigating the imposter-syndrome-inducing experience of launching a new lab. Beyond any specific pieces of guidance or feedback, James gave me confidence based on the knowledge that someone I respected so much believed in me and had my back.</p>
-	<p align="justify">This is a huge loss on multiple levels, which we will feel for years to come. I am meanwhile encouraged by the fact that the community he built and principles for which he advocated are here to stay."</p>
+	<p align="justify">This is a huge loss on multiple levels, which we will feel for years to come. I am meanwhile encouraged by the fact that the community he built and principles for which he advocated are here to stay.</p>
 	<b>—Rajiv McCoy</b>
 </div>
 
