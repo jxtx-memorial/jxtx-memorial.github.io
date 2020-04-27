@@ -52,7 +52,7 @@ show_tile: false
         Ph.D. program in Computer Science at the Pennsylvania State University in the Center for
         Comparative Genomics and Bioinformatics under the supervision of Professors Webb Miller and
         Francesca Chiaromonte. His Ph.D. work focused on developing novel machine learning
-        approaches for identifying functional elements in the genome [2] , leveraging the wealth of new
+        approaches for identifying functional elements in the genome, leveraging the wealth of new
         data from ENCODE ( <a href="https://www.encodeproject.org/">https://www.encodeproject.org/</a> ) and the alignments of newly assembled
         vertebrate genomes.</p>
     <h4>Creating a Galaxy</h4>
@@ -62,7 +62,7 @@ show_tile: false
         2005 by James. Today, Galaxy needs no introduction to anyone working in genomics, but at the
         time was a major advance above the ad-hoc command line bioinformatics analysis that
         dominated the field. The initial version introduced support for accessing remote data resources
-        and visualizing the results [4] . The project grew to incorporate thousands of analysis tools into
+        and visualizing the results. The project grew to incorporate thousands of analysis tools into
         one unified graphical user interface, accessible to anyone via a web browser. The Galaxy
         project remains a landmark achievement and has forever changed the way scientists analyze
         and share data.</p>
@@ -96,14 +96,14 @@ show_tile: false
     <p align="justify">While James is widely known for his development of the Galaxy Project, he made numerous
         other contributions to science and education. James collaborated with many experimentalists to
         analyze Hi-C data and interrogate the 3D organization of the genome. At Emory, James worked
-        to understand how DNA binding proteins shape nuclear architecture as cell fates are specified
-        [5] . At JHU, James collaborated to decipher the mechanisms of the mysterious “A” and “B”
-        compartmentalization of the genome in relation to the nuclear lamina [6] . He applied his
+        to understand how DNA binding proteins shape nuclear architecture as cell fates are specified.
+        At JHU, James collaborated to decipher the mechanisms of the mysterious “A” and “B”
+        compartmentalization of the genome in relation to the nuclear lamina. He applied his
         knowledge of the genome to identify “buttons” that promote gene regulation between
-        chromosomes [7] . James’ curiosity and collegiality led to new scientific directions as he
-        evaluated ribosome profiling data to identify A and P sites [8] , analyzed long-read transcriptome
-        data to characterize development in worms [9] , and interpreted transcriptome data from human
-        retinal organoids to understand how our eyes develop [10] , among many other projects. No
+        chromosomes. James’ curiosity and collegiality led to new scientific directions as he
+        evaluated ribosome profiling data to identify A and P sites, analyzed long-read transcriptome
+        data to characterize development in worms, and interpreted transcriptome data from human
+        retinal organoids to understand how our eyes develop, among many other projects. No
         matter the question, approach, or organism posed to him, James was always up for a new
         scientific challenge.</p>
     <p align="justify">James’ love of science was matched by his passion for teaching. At JHU, he completely
