@@ -59,7 +59,7 @@ show_tile: false
 
 <div class="box">
 	<p align="justify">Many people know James as an advocate for transparency, and Galaxy as his way of trying to make it easy for people to be honest and clear about the work that they have done. The thing that I admired the most about James is that he paired this quality with a willingness to entertain crazy ideas. Being both a proponent of strict rigor but also willing to support a project that isn't risk free and would take years to yield fruit made him one of the best scientists I ever worked with, and and will ever work with. He carved out a place in the department to be weird. Thank you, and rest in peace.</p>
-	<b>Boris Brenerman</b>
+	<b>—Boris Brenerman</b>
 </div>
 
 <span class="image fit"><img src="assets/images/TaylorLab3.jpg" alt="The Taylor Lab out to lunch"/></span>
