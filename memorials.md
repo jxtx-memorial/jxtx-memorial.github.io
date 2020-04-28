@@ -340,6 +340,20 @@ wonderful human being.</p>
 
 <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link">here</a> to contribute your memories of James</p>
 
+<header class="major">
+	<h1>Photos</h1>
+</header>
+<div class="box">
+	<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "684" height = "512"/>
+	<p>James celebrating with the lab after being promoted</p>
+</div>
+<div class="box">
+	<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
+	<p>The 2018 Faculty Skit at the CMDB retreat. James was playing Thor.</p>
+</div>
+
+
+
 </div>
 </section>
 
