@@ -141,6 +141,10 @@ wonderful human being.</p>
 	<b>—Karen Beemon</b>
 </div>
 
+<div class="box">
+	<p align="justify">I still can not believe that James is no longer with us. I have been used to the thinking that whenever we have any bioinformatics problems that need a second expert opinion, all we need to do is to walk ~5' to talk to James. We have discussed with James about writing collaborative grants. Although we have not acted on it, we took comfort in that James would always be there to support this effort once we get around to it. I am not sure it is possible to fill the void James left behind in our scientific community because of his generosity in sharing...</p>
+	<b>—Yixian Zheng</b>
+</div>
 
 <hr class="major" />
 
@@ -241,6 +245,8 @@ wonderful human being.</p>
 	<p><b>—Matthew Wooten</b></p>
 </div>
 
+
+<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link">here</a> to contribute your memories of James</p>
 
 </div>
 </section>
