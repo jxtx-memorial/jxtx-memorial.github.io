@@ -79,7 +79,7 @@ wonderful human being.</p>
 	<p align="justify">James Taylor was a true scientific trailblazer in the Department of Biology. He single-handedly brought computational biology to the forefront of the department, enlightening our students and faculty to new ways of analyzing data. Since his arrival, other like-minded computational and quantitative scientists have joined our department, growing the seed that James had started. James’s impact reached far beyond science as he brought a true sense of collegiality, always available to collaborate and help to tackle a scientific challenge.</p>
 	<p align="justify">James and his lab were the best collaborators that I’ve ever had. Available and interested at a moment’s notice, James always wanted to be part of the scientific adventure. James worked with our group to analyze gene expression, characterize transcription factor binding sites, identify natural variants and associate them with phenotypes, sequence genomes, and determine genome organization in the nucleus. James always cited his mentors’ advice that the goal of an excellent computational biologist is to be the best middle author. James achieved this goal, time and time again. He truly helped the Johnston lab achieve more than I ever could have imagined and I am eternally grateful.</p>
 	<p align="justify">Beyond being a tremendous scientist and collaborator, James was a true friend. James, the cool, chill, long-haired computational scientist was the yin to my hyper, anxious, balding biology yang. His door was always open to listen to my worries as a pre-tenure professor. He was truly giving and supportive. For every paper and every grant, he sincerely congratulated me with a big smile. He talked about how special it was that we were all a part of this amazing department, that was uniquely supportive in the very competitive world of science. Beyond scientific chats, James was always up for a fun, nerdy debate about superheroes, punk rock music, or video games. James was an amazing colleague, scientist, and friend. I love him like a brother and I miss him very much.</p>
-	<b>—Bob Johnston</b>
+	<b>—Robert J. Johnston</b>
 </div>
 
 <div class="box">
@@ -144,6 +144,23 @@ wonderful human being.</p>
 <div class="box">
 	<p align="justify">I still can not believe that James is no longer with us. I have been used to the thinking that whenever we have any bioinformatics problems that need a second expert opinion, all we need to do is to walk ~5' to talk to James. We have discussed with James about writing collaborative grants. Although we have not acted on it, we took comfort in that James would always be there to support this effort once we get around to it. I am not sure it is possible to fill the void James left behind in our scientific community because of his generosity in sharing...</p>
 	<b>—Yixian Zheng</b>
+</div>
+
+<div class="box">
+	<p align="justify">In so many ways, James was transformative. He will be remembered for the huge variety and depth of his accomplishments. And also for his stylish shoes.</p>
+	<p align="justify">Thank you James for inspiring us.</p>
+	<b>—Kyle Cunningham</b>
+</div>
+
+<div class="box">
+	<p align="justify">There are so many thoughts and moments that come to mind when I think about James. These largely centered around the student and faculty committees that we served on together.  For starters, we seemed to share many of the same perspectives - James liked to quantify what made sense to quantify.  James never lost the belief that we can make things better no matter how frustrating the current state of affairs might be. I remember one time we were in a student exam together and James felt a faculty member was acting unfairly.  He not only spoke up, we had a serious text exchange about ideas we would put forward to change the system for the better. To that end, I have to share one other story:</p>
+	<p align="justify">Prior to James being on the CMDB Admissions committee, we used to manually schedule faculty interviews (each faculty interviews 5 applicants, there are usually 45 applicants... so we often scheduled like 225 interviews).  This is so complex for many reasons one being that faculty all had complex schedules, applicants sometimes specifically request specific faculty they want to meet, all applicants need to meet with at least 1 admissions committee member.....So in comes James to this meeting where we manually used index cards with applicant names and paper schedules with faculty availability all splayed out on a big table to schedule the interviews.   When we finished, over 4 h later, James looked at me and and said, "I will never do that again" and walked off.  The next year came around and James came to me with a program... we called it the "the sorting hat" that did the entire task. I am not sure if James was a Potter fan or who came up with that name but it stuck and we used it.  Each year making improvements. After this year's interview day, we even talked about sorting hat v3.0 and and how we were going to make it even better.  I will miss his him dearly.</p>
+	<b>—Steve Farber</b>
+</div>
+
+<div class="box">
+	<p align="justify">The legacy of James research contributions and the unprecedented magnitude of his transforming impact in our department, especially considering the short time we were privileged to have him as a colleague, cannot be matched by most of us with many years of service. This was unquestionably admirable.  But, what impressed me most, and is something I will never forget, was his unassuming, gentle participation in our daily affairs. His soft-spoken manner, which was sometimes conveyed as an illusion of shyness, comfortably overshadowed the towering magnitude of his creativity and vision and James’ eagerness to share his ideas with all. In the last few months, James and I were exploring the possibility of starting a collaboration emanating from an idea I had about developing a novel recipe of sample preparation of eukaryotic nuclei for use in Hi-C analyses of the 3-D genome organization with the aim of improving the physical limits of resolution of this methodology. Our discussions exemplify what I think was his greatest attribute: James’ mission of collaborative science was one that brought people together as colleagues, not just in our department, but throughout the scientific community. I will miss him dearly.</p>
+	<b>—Van Moudrianakis</b>
 </div>
 
 <hr class="major" />
@@ -243,6 +260,81 @@ wonderful human being.</p>
 <div class="box">
 	<p align="justify">James was a brilliant, cool, kind-hearted and incredibly genuine person. His generous and collaborative spirit continues to inspire the type of cooperation that makes science joyful and rewarding. James used his considerable talents to encourage people and lift them up. The world is a better place for the life that he lived.</p>
 	<p><b>—Matthew Wooten</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">Although I never got to know James personally,  I was always in awe of how highly he was  thought of.  Whenever his name was mentioned there were kind words or praise that followed.  He was truly respected and genuinely liked by all.</p>
+	<p><b>—Joanne Hall</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">I was really lucky to get to work with James at multiple points throughout my PhD. He joined the department during my first year, and immediately made an impact on our class by leading us in a semester-long coding course. At the time that felt a bit like a trial by fire, but looking back, it helped me build problem solving skills and gave me a basic knowledge of coding that I've been extremely grateful for both throughout my PhD and in the last year as I've moved to a job in biotech.</p>
+	<p align="justify">As I continued through my PhD, James was more than willing to share his time and expertise whenever I needed computational biology or coding help. At one point, I did an RNA sequencing project. When we got the data back, I didn't have a clue how to analyze it in any useful way. James took time out of his extremely busy schedule to sit down in a room with me for two days straight, talking me through all the steps of RNA seq analysis. </p>
+	<p align="justify">Closer to the end of my PhD, as I worked on the manuscript for my paper, I bugged James VERY frequently, needing help with analyzing ChIP seq and Hi-C data. He ended up being a co-author on my paper, and I could not have asked for a more helpful, patient collaborator. As a member of the Johnston lab, there were many times that Bob and I would burst into his office unannounced with that day's new hypothesis or question about data interpretation. Many people would have been irritated about the frequent knocks on their office door, but James was always happy to sit down and talk science. </p>
+	<p align="justify">I can remember many times that I entered James's office freaking out internally that I would never be able to interpret my data, or that I had disproven my own thesis. I never felt that way after talking to him. Partly this was because he almost always knew the answers to my questions and could point me in the right direction, and partly it was because he had a very calming personality. It was hard to be worked up or stressed out after interacting with James. </p>
+	<p align="justify">A random, silly story comes to mind about one time Bob and I went over to James's office. James got up to draw something on the white board, and grabbed a green marker. He wrote with it, then realized he couldn't see what it said since he was colorblind. He then went through all the markers he had, and donated at least 5-10 green dry erase markers to our lab. We used to joke that the Johnston lab studied cone development so we could solve James's colorblindness.</p>
+	<p align="justify">Long story short, James was not only a brilliant scientist, but an amazing human being. I owe him a ton, and wish I had had more of an opportunity to thank him and tell him how much all his help meant to me. Without him, I wouldn't have a first author paper, any knowledge of computational biology, or a respect for sparkly gold sneakers. I'll really miss him, and I know the rest of the CDMB program will too.</p>
+	<p><b>—Kayla Viets</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">An important part for the start of grad school for me was the bootcamp put on by James. It helped unify our cohort's bond through learning an unfamiliar skillset together. Not only that, but James' love for the subject and genuine passion for the topic motivated me to explore new avenues of research. His contributions to the scientific field were an inspiration, and I'll miss seeing him around, occasionally on his skateboard.</p>
+	<p><b>—Daria Naumova</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">James is not only a great teacher but also a caring individual, who would help out the students at times when they need guidance and empathy the most.</p>
+	<p><b>—Wayne Fu</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">“You tell me. What do you want to know?”</p>
+	<p align="justify">He wasn’t a lecturer, he was a conversationalist. James was able to command the attention of a room with only his presence. Sitting side-by-side with his students, James was able to teach us the ins and outs of computational biology (even to those of us who were computationally challenged). Every CMDB student is privileged to have been taught how to navigate bioinformatics by someone as truly remarkable as James.</p>
+	<p align="justify">I will remember James as the incredibly talented and passionate scientist that he was. I will also remember his incredible style, complete with long, flowing hair and an ever changing collection of unique shoes. He put so much into the department, including starting the computational biology program, participating in recruitment, and always performing in the faculty skit at retreat. His presence will be missed. The world has lost a great person, but his memory will live on through those he has impacted forever. </p>
+	<p><b>—Emily Zion</b></p>
+</div>
+
+<div class="box">
+	<img src="assets/images/Justin_Mirazee_submission.jpeg" alt="Justin Mirazee rotation photo" width = "512" height = "684"/>
+	<p align="justify">I took this picture one night during my fall rotation in James’ lab.  I wanted to keep a record of the mental exercise Kate Weaver encouraged me to do to help me understand a problem in my code.  James instilled a culture of camaraderie in his lab that has stayed with me, and I hope to pass on this generosity to future mentors and peers.</p>
+	<p><b>—Justin Mirazee</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">James was one of the best teachers in our department, and also a cool and kind person. His efforts on reasearch and teaching made a great difference to the department and inspired all CMDB students. I will miss him.</p>
+	<p><b>—Simon Zhang</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">I will always remember James as a wonderful teacher. His openness to collaborate and innovate, with insistence on data reproducibility and transparency was a quality that he lived, and taught. The quantitative biology bootcamp, that he led with a gentle smile and quiet enthusiasm, showed me never to be fearful of big data, and, instead, harness the power of bioinformatics to answer questions in Biology. Thank you James, for addressing all our queries patiently, and more so, for truly teaching us to teach ourselves.</p>
+	<p><b>—Himani Galagali</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">James Taylor wasn’t my PI but he meant a lot to me and the Johnston lab. Knowing absolutely nothing about computational biology, I chose to do a rotation with him his first year at Hopkins. Nothing was set up, and I sat in an office next to his because his lab space wasn’t ready. This was before his infamous computational biology bootcamp, so I badgered him endlessly with questions, worrying the whole time that he must think I’m really annoying. And maybe he did! But it never stopped him from helping me when I needed it; he was always patient, kind, and generous with his time. Despite knowing very little about computational biology at the start, I left that rotation with data that would later become a critical part of my eLife paper. In fact, that entire paper was predicated on the findings James helped me to discover.</p>
+	<p align="justify">James’ support started during my rotation but truly had no end. Throughout my years at Hopkins, Bob Johnston and I would often run up to the third floor to get his thoughts, advice, opinions, and ideas, and he always welcomed us into his office with enthusiasm. His scientific expertise was unparalleled in our department, and he contributed unique and valuable perspectives to our work. He was also a God-sent calm and collected voice of reason when Bob and I were freaking out. But beyond that, he was an incredible teacher. Later in grad school, a few lab-mates and I needed to analyze some RNA-seq data. He could have done it for us, but he wanted us to learn it. So, he took several days out of his busy schedule to run a mini workshop with us- a true testament to his immense generosity.</p>
+	<p align="justify">James was more than just a collaborator to me though, he was also my cheerleader. That may sound strange given that James was a soft-spoken guy, but it’s true. He didn’t literally chant at me like Bob might, but he always seemed to know when I needed a little encouragement. When my paper got rejected, he was there shaking his head, agreeing with me that it was BS and unfair. When I couldn’t replicate an important experiment, he pushed me to find a workaround. When near the end of my grad school experience I felt I had not accomplished as much as my peers, he gave me the greatest gift- a compliment I will literally never forget. His encouragement empowered me in grad school and still does today. He believed in me even when I didn’t believe in myself and I will keep that with me always.</p>
+	<p align="justify">James Taylor wasn’t my PI, but he absolutely helped shape me into the scientist I am today and I will forever be grateful for him.</p>
+	<p><b>—Caity Anderson</b></p>
+</div>
+
+
+<div class="box">
+	<p align="justify">I first met James at the end of August 2017.  We were the new CMDB class starting our Ph.D. training in James's Quantitative Biology Bootcamp.  What I remember about how he introduced himself to us was how he described learning biology in his Ph.D. as "reading Albert's (Molecular Biology of the Cell) from cover to cover".  It was a short introduction that was extremely humble, but I could still immediately tell that he was an incredibly brilliant guy.  James struck me as the kind of person that appears in the right place, at the right time, with the unbelievable talents and skills to change the world.  Even still, he made us all laugh during our CMDB retreat when he claimed that he "didn't understand proteins."  He was one of those people that I feel lucky to say that I knew, even just a tiny bit, even for just a short while.  He had great shoes, great hair, and it was a treat to see him cruise by on his bike or skateboard on the Maryland Avenue bike lane.</p>
+	<p align="justify">I greatly admired James' commitment to teaching and his desire to make computational biology accessible to as wide an audience as possible.  I'm not much of a coder, but I am much better, thanks to James.  I was very intimidated about even attempting to do a rotation in his lab, but I have such enthusiasm for his work that I couldn't pass up the chance to learn from the best.  James served on my GBO committee and was chair of my thesis committee.  One of the turning points in my GBO was James's line of questions.  My favorite moment was the look of pleasant surprise when I was able to correctly answer the approximate percentage of human genes that have a canonical TATA-box.  After a bit of a rough start, he gave me a boost of confidence to finish strong.</p>
+	<p align="justify">James was the kind of professor that makes you want to build something or have some idea that maybe, just maybe, he would think was cool or interesting; yet he was never stingy with a complement for good work.  He was also the sort of professor that you never wanted to disappoint; but he was not harsh with a critique and was happy to provide constructive criticism to make you better.  James had a very hands-off approach to mentoring, but he never made me feel like he didn't have time or wouldn't make time to meet with me or work through a problem.</p>
+	<p align="justify">I loved having the opportunity to discuss with James his visionary ideas that were ready to shape the next decade or four of computational biology.  What I wouldn't give for another chance to chat with him about the spectacular possibilities.  I think that is what I will miss most.  But I am inspired by the work that he has done, and the work he would want us to keep doing.  And I will carry James's memory and my experiences with him for the rest of my career, building things and having ideas that I would love to tell him about.</p>
+	<p><b>—Michelle Biederman</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">As a colleague, James would not only freely discuss ideas and give advice to graduate students, but was also fun to talk with — at happy hours, retreats or in the hallway. Once, when I brought up how the pound sign "#" is now often called a "hash-tag," James immediately quipped that, clearly, we should all refer to the symbol by its proper designation: the Octothorpe. This lighthearted response, a deadpan mix of esoteric and informative, was quintessentially James.</p>
+	<p><b>—Andrew Martens</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">It feels so surreal that such a valuable member of our department is gone so suddenly. I can't imagine what the department will be like upon returning to campus. Although I did not interact with or know him personally, I admired how passionately he taught lectures during biophysics and how well he articulated his lessons. I enjoyed James' little jokes here and there while he saw how much we struggled during the bootcamp; now I can't even imagine how it will be without James around to teach the bootcamp again. My favorite memories of James will always be watching him skateboard around campus in shiny, metallic shoes, and the quiet sense of humor he shared with everyone. Rest in peace, James. </p>
+	<p><b>—Amanda Ray</b></p>
 </div>
 
 
