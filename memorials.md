@@ -349,7 +349,7 @@ wonderful human being.</p>
 </div>
 <div class="box">
 	<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
-	<p>The 2018 Faculty Skit at the CMDB retreat. James was playing Thor.</p>
+	<p>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</p>
 </div>
 
 
