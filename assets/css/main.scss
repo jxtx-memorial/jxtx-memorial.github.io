@@ -91,10 +91,14 @@ figure {
 	text-align: center;
     display: inline-block;
 	margin: 20px auto; /* adjust as needed */
-	max-width: 30%; /* demo; set some amount (px or %) if you can */
 }
-figure .image {
-    width: 100%;
+figure .image1 {
+	width: 100%;
+	max-width: 684px; /* demo; set some amount (px or %) if you can */
+}
+figure .image2 {
+	width: 100%;
+	max-width: 975px; /* demo; set some amount (px or %) if you can */
 }
 figure img {
 	vertical-align: top;
