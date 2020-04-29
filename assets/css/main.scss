@@ -86,3 +86,14 @@ p{
 .bgimg {
 	background-image: url('https://jxtx-memorial.github.io/assets/images/galaxy_image.jpg');
 }
+
+figure {
+    display: inline-block;
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    text-align: center;
+}
