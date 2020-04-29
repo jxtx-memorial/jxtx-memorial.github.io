@@ -390,7 +390,7 @@ wonderful human being.</p>
 	<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
 	<figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</figcaption>
 </figure>
-<figure class = "image1">
+<figure class = "image2">
 	<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
 	<figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat:  James getting into character as ‘James James Binks’, Mark as Yodoren, Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’</figcaption>
 </figure>
