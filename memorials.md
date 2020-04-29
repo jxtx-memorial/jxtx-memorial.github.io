@@ -245,8 +245,8 @@ wonderful human being.</p>
 </div>
 
 <div class="box">
-<p><span class="image fit"><img src="assets/images/Darby_artwork.png" alt="Artwork by Darby Kozan"/></span></p>
-<b>Artwork by Darby Kozan</b>
+	<img src="assets/images/Darby_artwork.png" alt="Artwork by Darby Kozan"/>
+	<center><figcaption>Artwork by Darby Kozan</figcaption></center>
 </div>
 
 <!-- <span class="image fit"><img src="assets/images/IMG_3033.PNG" alt="James teaching Biophysics, Spring 2019"/></span> -->
@@ -370,6 +370,12 @@ wonderful human being.</p>
 </div>
 
 <div class="box">
+	<img src="assets/images/2018Cohort_quotes.png" alt="Quotes from the 2018 cohort"/>
+<!-- <p><span class="image fit"><img src="assets/images/2018Cohort_quotes.png" alt="Quotes from the 2018 cohort"/></span></p> -->
+	<center><figcaption>Compiled by Margaret Starostik</figcaption></center>
+</div>
+
+<div class="box">
 	<p align="justify">James was a terrific teacher and mentor, and I am so thankful for the time I had building that relationship. The more time I spent with James, the more I saw how genuinely fun he was. This was perhaps most obvious to me at the department’s annual retreat, where students and faculty prepare and present skits about life in the program. This past year, the skits followed a Stranger Things theme, and James played Billy, a role he adopted almost seamlessly. Demonstrating his characteristic dedication, James had grown out his facial hair the days leading up to the performance so that he could shave it down to Billy’s distinctive moustache. As the villain, Billy of course has a fitting tattoo of a skull smoking a cigarette on his arm. In turn, James sported a tattoo of something equally spooky: a Hi-C interaction map. Terrifying! </p>
 	<p><b>—Dylan Taylor</b></p>
 </div>
@@ -395,7 +401,13 @@ wonderful human being.</p>
 	<b>—Kiara Eldred</b>
 </div>
 
-<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link">here</a> to contribute your memories of James</p>
+<center>
+	<ul class="actions">
+		<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link" class="button special fit">Contribute your memories of James</a></li>
+	</ul>
+</center>
+
+
 
 <header class="major">
 	<h1>Photos</h1>
@@ -463,7 +475,7 @@ wonderful human being.</p>
 	</span>
 </div>
 
-If you have photos of James you'd like to be featured here please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>
+If you have photos of James you would like to be featured on this site, please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>.
 
 </div>
 </section>
