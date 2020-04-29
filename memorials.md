@@ -410,7 +410,7 @@ wonderful human being.</p>
 <div class="box">
 	<figure>
 		<span class="image fit">
-			<img src="assets/images/2015_retreat.jpeg" alt="James' at the 2015 CMDB retreat" width = "1026" height = "768"/>
+			<img src="assets/images/2015_retreat.jpeg" alt="James' at the 2015 CMDB retreat"/>
 			<figcaption>CMDB Retreat, 2015.</figcaption>
 		</span>
 	</figure>
