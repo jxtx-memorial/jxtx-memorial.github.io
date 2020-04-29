@@ -169,6 +169,13 @@ wonderful human being.</p>
 	<b>—Xin Chen</b>
 </div>
 
+<div class="box">
+	<p align="justify">James and I shared adjoining offices and labs in the new UTL building.  For the past five years, we had grown very close as colleagues with common scientific interests, but more importantly as friends.  We talked often in each other’s office about scientific ideas and specific projects, as well as the hopes and plans for our labs, our students, and the department.  There is a predictable cadence to daily life when you work next to someone for that long and James’ way of working, with feet kicked up, coding on his laptop, was always a comforting sight for me.  His zen-like aura made me feel as though I could carry on with my own work having the reassurance that I could poke my head in his office any time to shoot the breeze.  And sometimes, at the end of a particularly intense week, he would stop by, usually at my behest, plop himself on my office couch, and we would have a drink together.  Unfailingly, it seems, other colleagues would stop by and we’d all just unwind and decompress and laugh.  I will miss that camaraderie and the sense of a shared mission and feel unmoored without him next door.</p>
+	<p align="justify">James was such a passionate advocate for collaborative research.   We co-mentored a very talented student, Nathan Roach, and we recently celebrated the publication of Nathan’s terrific paper. It was the first of what we imagined would be a long series of projects over the years that we would work on together because it was just so much fun to do science with James: no ego, no drama, just focusing on solving puzzles.  And, of course, his influence went well beyond our special local ecosystem to the broader scientific community.  His is an incalculable loss.  James was soft-spoken, kind, and compassionate.  He laughed easily and had a wonderful, dry wit.  But when he was excited about an idea, he was so earnest, almost child-like in his enthusiasm, with his hands animately outstretched and his eyes intensely locked onto you.  Usually when he did this, I would find myself agreeing with him, regardless of topic.  I loved the way he thought about problems, the architectural clarity of his approaches, and he made me see things with a fresh perspective that was often orthogonal to my way of thinking.  I learned a lot.</p>
+	<p align="justify">James' office door was always open, inviting anyone to come in to talk.  It was as close to a vibrant startup incubator that we had in our department.  He was a great listener and incredibly generous with his time and ideas.  He furnished his office sparsely, with just a small round table and speakers by the windows playing an eclectic selection of his music.  And it was here, in that modest, unadorned office, that James, quietly and unassumingly, made his foundational contributions to the future infrastructure of genomic analysis. We have lost a brilliant scientist and a great friend to the many lives he touched and made better.</p>
+	<b>—John Kim</b>
+</div>
+
 <hr class="major" />
 
 
@@ -359,7 +366,7 @@ wonderful human being.</p>
 
 <div class="box">
 	<p align="justify">In my last email from James regarding some work issues he said “I’m feeling generous”.  In fact James was always generous.  He was generous with his time, his scientific expertise, and his gratitude.  He loved our department and was very grateful for the faculty, students and staff.  He had found his home. I remember working with him on his very large U54 proposal before he arrived and he was surprised and grateful that we were contacting all the subs on the proposal to alleviate the workload for him.   When I asked him to speak at the Homewood Research Administrators Day he of course accepted and during the speech expressed his gratitude for the staff in Biology as well as for all research administrators.</p>
-	<p align="justify">James was our “rock star” and transformed our department. For that I will be eternally grateful to him.  My deepest sympathy to Meredith ,his family and all of his colleagues.</p>
+	<p align="justify">James was our “rock star” and transformed our department. For that I will be eternally grateful to him.  My deepest sympathy to Meredith, his family and all of his colleagues.</p>
 	<b>—Cindy Holstein</b>
 </div>
 
@@ -369,18 +376,24 @@ wonderful human being.</p>
 	<h1>Photos</h1>
 </header>
 <div class="box">
-	<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "684" height = "512"/>
-	<p align="justify">James celebrating with the lab after being promoted</p>
+	<figure>
+		<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "684" height = "512"/>
+		<figcaption>James celebrating with the lab after being promoted.</figcaption>
+	</figure>
 </div>
 <div class="box">
-	<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
-	<p align="justify">The faculty skit at the 2018 CMDB retreat. James was playing Thor.</p>
+	<figure>
+		<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
+		<figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</figcaption>
+	</figure>
 </div>
 
 
 <div class="box">
-	<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
-	<p align="justify">Preparing for the Star Wars skit at the 2016 CMDB Retreat:  James getting into character as ‘James James Binks’, Mark as Yodoren, Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’</p>
+	<figure>
+		<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
+		<figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat:  James getting into character as ‘James James Binks’, Mark as Yodoren, Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’</figcaption>
+	</figure>
 </div>
 
 
