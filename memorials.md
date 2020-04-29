@@ -415,9 +415,9 @@ wonderful human being.</p>
 </div>
 
 <div class="box">
-	<figure class = "image2">
-		<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
-		<figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</figcaption>
+	<figure class = "image4">
+		<img src="assets/images/2015_CMDB_Retreat_James.png" alt="Preparing for the 2015 CMDB Retreat faculty sketch" width = "702" height = "480"/>
+		<figcaption>Preparing for the 2015 CMDB Retreat faculty skit: ‘Mud Slinging, 2016’ about a debate among the Republican candidates for president.  James played Florida Senator ‘Marco Boobio’ (tag line: “He’s hot and he knows it.“).</figcaption>
 	</figure>
 </div>
 <div class="box">
@@ -442,6 +442,20 @@ wonderful human being.</p>
 	<figure class = "image1">
 		<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "684" height = "512"/>
 		<figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat.  James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption>
+	</figure>
+</div>
+
+<div class="box">
+	<figure class = "image2">
+		<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
+		<figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</figcaption>
+	</figure>
+</div>
+
+<div class="box">
+	<figure class = "image5">
+		<img src="assets/images/James_teaching_award_2019.jpg" alt="2019 Graduate Teaching Award" width = "696" height = "464"/>
+		<figcaption>James receives the 2019 Graduate Teaching Award during our CMDB graduation ceremony.</figcaption>
 	</figure>
 </div>
 
