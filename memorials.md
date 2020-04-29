@@ -188,6 +188,12 @@ wonderful human being.</p>
 	<b>—Trina Schroer</b>
 </div>
 
+<div class="box">
+	<p align="justify">James, you have greatly enriched my view of modern biological research. You have always been kind and collegial. I miss you.</p>
+	<p align="justify">RIP.</p>
+	<b>—Haiqing Zhao</b>
+</div>
+
 
 <hr class="major" />
 
