@@ -183,6 +183,12 @@ wonderful human being.</p>
 	<b>—John Kim</b>
 </div>
 
+<div class="box">
+	<p align="justify">My first “James experience” was at his job seminar -- clearly a whiz kid, he readily engaged the JHU Biology audience. He brought an entirely new dimension to our department with his quiet energy and effortless mastery. James was a voice of calm and reason and a man of great integrity, both personal and professional. His untimely departure leaves a gaping hole. I think his unflappable presence in our cacophonous midst is what I will miss most. James, you will be with us forever.</p>
+	<b>—Trina Schroer</b>
+</div>
+
+
 <hr class="major" />
 
 
@@ -375,6 +381,12 @@ wonderful human being.</p>
 	<p align="justify">In my last email from James regarding some work issues he said “I’m feeling generous”.  In fact James was always generous.  He was generous with his time, his scientific expertise, and his gratitude.  He loved our department and was very grateful for the faculty, students and staff.  He had found his home. I remember working with him on his very large U54 proposal before he arrived and he was surprised and grateful that we were contacting all the subs on the proposal to alleviate the workload for him.   When I asked him to speak at the Homewood Research Administrators Day he of course accepted and during the speech expressed his gratitude for the staff in Biology as well as for all research administrators.</p>
 	<p align="justify">James was our “rock star” and transformed our department. For that I will be eternally grateful to him.  My deepest sympathy to Meredith, his family and all of his colleagues.</p>
 	<b>—Cindy Holstein</b>
+</div>
+
+<div class="box">
+	<p align="justify">James Taylor was a tremendous human. He taught me that you don’t have to stress to be a successful scientist; you can also be a calm, cool, mellow individual with shoes that brighten everyone’s day. James was a leader in what is arguably the best part of the JHU Biology department: collaboration. As part of the Johnston lab, he was a collaborator to almost every project we started.</p>
+	<p align="justify">Discussing science with James was always fun and enlightening. As usual, James was even keeled and cool-headed in all of these discussions, but I enjoyed the added pep in his speech and a twinkle in his eye that appeared when discussing something he was particularly excited about. What was even more special about James is that he was equally passionate about putting the tools of discovery in other people’s hands. It was evident from watching him teach that he genuinely loved sharing the secrets of using python, R, and manipulating data to ask questions and communicate answers. Our students are better because of James, our department is better because of James, and science is better because of James.</p>
+	<b>—Kiara Eldred</b>
 </div>
 
 <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link">here</a> to contribute your memories of James</p>
