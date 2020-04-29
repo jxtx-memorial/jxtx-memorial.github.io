@@ -403,7 +403,7 @@ wonderful human being.</p>
 <div class="box">
 	<figure class = "image1">
 		<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "684" height = "512"/>
-		<figcaption>James celebrating with the lab after being promoted.</figcaption>
+		<figcaption>James celebrating with the lab after being promoted to full professor.</figcaption>
 	</figure>
 </div>
 
