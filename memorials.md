@@ -163,13 +163,6 @@ wonderful human being.</p>
 	<b>—Van Moudrianakis</b>
 </div>
 
-<div class="box">
-	<p align="justify">In my last email from James regarding some work issues he said “I’m feeling generous”.  In fact James was always generous.  He was generous with his time, his scientific expertise, and his gratitude.  He loved our department and was very grateful for the faculty, students and staff.  He had found his home. I remember working with him on his very large U54 proposal before he arrived and he was surprised and grateful that we were contacting all the subs on the proposal to alleviate the workload for him.   When I asked him to speak at the Homewood Research Administrators Day he of course accepted and during the speech expressed his gratitude for the staff in Biology as well as for all research administrators.</p>
-	<p align="justify">James was our “rock star” and transformed our department. For that I will be eternally grateful to him.  My deepest sympathy to Meredith ,his family and all of his colleagues.</p>
-	<b>—Cindy Holstein</b>
-</div>
-
-
 <hr class="major" />
 
 
@@ -356,6 +349,12 @@ wonderful human being.</p>
 	<p align="justify">I remember lots of Friday afternoons in quant lab with James, when my classmates and I would struggle with the coding assignment until one of us made a breakthrough and shared it with everyone else. I remember his patient responses to the many questions we asked during lab, his quiet and approving smile in the background when we figured out how to approach a problem and then explained it to our peers, and his genuine happiness whenever we lifted our heads from the nitty-gritty of the Python grind and were excited about what we'd accomplished in class that day. I think he liked and intended that we used those labs to learn through self discovery and helping others. That approach is still my lasting impression of his teaching style: that he helped us develop the tools and knowledge we needed to solve problems on our own. His classes were never easy, and they required time and effort, but he taught them well, and we definitely learned.</p>
 	<p align="justify">When I was choosing a thesis lab, James made the time to listen to my concerns, give thoughtful advice, and quietly encourage me. I would run into him every now and then dropping into the lab to talk with his students, or sitting in the hallway to grind coffee (so that he wouldn't bother people in lab with the noise), or when I passed by his office on my way to the kitchen and heard a truly diverse selection of music coming from his door. I thought he would always be there, sneakers up on his desk, with his door open if I needed advice on science or grad school. I will miss him, and I'm sad to no longer have his guidance. I'm grateful that I had the opportunity to know him and be taught by him for a short time.</p>
 	<p><b>—Stephanie Yan</b></p>
+</div>
+
+<div class="box">
+	<p align="justify">In my last email from James regarding some work issues he said “I’m feeling generous”.  In fact James was always generous.  He was generous with his time, his scientific expertise, and his gratitude.  He loved our department and was very grateful for the faculty, students and staff.  He had found his home. I remember working with him on his very large U54 proposal before he arrived and he was surprised and grateful that we were contacting all the subs on the proposal to alleviate the workload for him.   When I asked him to speak at the Homewood Research Administrators Day he of course accepted and during the speech expressed his gratitude for the staff in Biology as well as for all research administrators.</p>
+	<p align="justify">James was our “rock star” and transformed our department. For that I will be eternally grateful to him.  My deepest sympathy to Meredith ,his family and all of his colleagues.</p>
+	<b>—Cindy Holstein</b>
 </div>
 
 <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link">here</a> to contribute your memories of James</p>
