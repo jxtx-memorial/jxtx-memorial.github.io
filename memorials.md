@@ -382,33 +382,42 @@ wonderful human being.</p>
 <header class="major">
 	<h1>Photos</h1>
 </header>
-<figure class = "image1">
-	<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "684" height = "512"/>
-	<figcaption>James celebrating with the lab after being promoted.</figcaption>
-</figure>
-<figure class = "image2">
-	<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
-	<figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</figcaption>
-</figure>
-<figure class = "image2">
-	<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
-	<figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat: James getting into character as ‘James James Binks’, Mark as ‘Yodoren,’ Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’  Ever the consummate professional, James made a vest for his character by applying duct tape on his shirt.</figcaption>
-</figure>
-
-<figure class = "image3">
-	<img src="assets/images/2016_Skit_Rehearsal2.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "512" height = "684"/>
-	<figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016. [TESTING: is the text justification problem with the CSS for image3 or is it a problem with the Samer photo?]</figcaption>
-</figure>
-
-<figure class = "image3">
-	<img src="assets/images/Samer_Star_Wars_skit_2016.jpg" alt="Preparing for the 2016 Faculty Skit" width = "512" height = "684"/>
-	<figcaption>When James first saw Samer in character as ‘Jabba the Hattar,’ he wanted to run away.  Star Wars skit, CMDB Retreat, 2016.</figcaption>
-</figure>
-
-<figure class = "image1">
-	<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "684" height = "512"/>
-	<figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat.  James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption>
-</figure>
+<div class="box">
+	<figure class = "image1">
+		<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "684" height = "512"/>
+		<figcaption>James celebrating with the lab after being promoted.</figcaption>
+	</figure>
+</div>
+<div class="box">
+	<figure class = "image2">
+		<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
+		<figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</figcaption>
+	</figure>
+</div>
+<div class="box">
+	<figure class = "image2">
+		<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
+		<figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat: James getting into character as ‘James James Binks’, Mark as ‘Yodoren,’ Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’  Ever the consummate professional, James made a vest for his character by applying duct tape on his shirt.</figcaption>
+	</figure>
+</div>
+<div class="box">
+	<figure class = "image3">
+		<img src="assets/images/2016_Skit_Rehearsal2.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "512" height = "684"/>
+		<figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016. [TESTING: is the text justification problem with the CSS for image3 or is it a problem with the Samer photo?]</figcaption>
+	</figure>
+</div>
+<div class="box">
+	<figure class = "image3">
+		<img src="assets/images/Samer_Star_Wars_skit_2016.jpg" alt="Preparing for the 2016 Faculty Skit" width = "512" height = "684"/>
+		<figcaption>When James first saw Samer in character as ‘Jabba the Hattar,’ he wanted to run away.  Star Wars skit, CMDB Retreat, 2016.</figcaption>
+	</figure>
+</div>
+<div class="box">
+	<figure class = "image1">
+		<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "684" height = "512"/>
+		<figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat.  James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption>
+	</figure>
+</div>
 
 </div>
 </section>
