@@ -386,7 +386,7 @@ wonderful human being.</p>
 	<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "684" height = "512"/>
 	<figcaption>James celebrating with the lab after being promoted.</figcaption>
 </figure>
-<figure class = "image1">
+<figure class = "image2">
 	<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
 	<figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</figcaption>
 </figure>
