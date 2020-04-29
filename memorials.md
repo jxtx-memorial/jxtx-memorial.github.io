@@ -370,13 +370,18 @@ wonderful human being.</p>
 </header>
 <div class="box">
 	<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "684" height = "512"/>
-	<p>James celebrating with the lab after being promoted</p>
+	<p align="justify">James celebrating with the lab after being promoted</p>
 </div>
 <div class="box">
 	<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
-	<p>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</p>
+	<p align="justify">The faculty skit at the 2018 CMDB retreat. James was playing Thor.</p>
 </div>
 
+
+<div class="box">
+	<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
+	<p align="justify">Preparing for the Star Wars skit at the 2016 CMDB Retreat:  James getting into character as ‘James James Binks’, Mark as Yodoren, Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’</p>
+</div>
 
 
 </div>
