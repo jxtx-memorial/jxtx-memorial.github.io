@@ -403,7 +403,7 @@ wonderful human being.</p>
 <div class="box">
 	<figure class = "image3">
 		<img src="assets/images/2016_Skit_Rehearsal2.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "512" height = "684"/>
-		<figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016. [TESTING: is the text justification problem with the CSS for image3 or is it a problem with the Samer photo?]</figcaption>
+		<figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016.</figcaption>
 	</figure>
 </div>
 <div class="box">
