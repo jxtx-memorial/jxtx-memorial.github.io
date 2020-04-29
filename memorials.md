@@ -419,6 +419,8 @@ wonderful human being.</p>
 	</figure>
 </div>
 
+If you have photos of James you'd like to be featured here please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>
+
 </div>
 </section>
 
