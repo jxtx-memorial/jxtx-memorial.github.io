@@ -401,8 +401,8 @@ wonderful human being.</p>
 	<h1>Photos</h1>
 </header>
 <div class="box">
-	<figure class = "image1">
-		<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "684" height = "512"/>
+	<figure class = "image4">
+		<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "983" height = "736"/>
 		<figcaption>James celebrating with the lab after being promoted to full professor.</figcaption>
 	</figure>
 </div>
@@ -448,17 +448,19 @@ wonderful human being.</p>
 </div>
 
 <div class="box">
-	<figure class = "image2">
-		<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
+	<figure class = "image1">
+		<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "1024" height = "556"/>
 		<figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</figcaption>
 	</figure>
 </div>
 
 <div class="box">
-	<figure class = "image5">
-		<img src="assets/images/James_teaching_award_2019.jpg" alt="2019 Graduate Teaching Award" width = "696" height = "464"/>
-		<figcaption>James receives the 2019 Graduate Teaching Award during our CMDB graduation ceremony.</figcaption>
-	</figure>
+	<span class="image fit" >
+		<figure>
+			<img src="assets/images/James_teaching_award_2019.jpg" alt="2019 Graduate Teaching Award"/>
+			<figcaption>James receives the 2019 Graduate Teaching Award during our CMDB graduation ceremony.</figcaption>
+		</figure>
+	</span>
 </div>
 
 If you have photos of James you'd like to be featured here please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>
