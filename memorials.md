@@ -408,12 +408,12 @@ wonderful human being.</p>
 </div>
 
 <div class="box">
-	<figure>
-		<span class="image fit">
+	<span class="image fit" >
+		<figure>
 			<img src="assets/images/2015_retreat.jpeg" alt="James' at the 2015 CMDB retreat"/>
 			<figcaption>CMDB Retreat, 2015.</figcaption>
-		</span>
-	</figure>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
@@ -430,19 +430,19 @@ wonderful human being.</p>
 </div>
 <div class="box">
 	<figure class = "image3">
-		<img src="assets/images/2016_Skit_Rehearsal2.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "768" height = "1026"/>
+		<img src="assets/images/2016_Skit_Rehearsal2.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "768" height = "1024"/>
 		<figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016.</figcaption>
 	</figure>
 </div>
 <div class="box">
 	<figure class = "image3">
-		<img src="assets/images/Samer_Star_Wars_skit_2016.jpg" alt="Preparing for the 2016 Faculty Skit" width = "768" height = "1026"/>
+		<img src="assets/images/Samer_Star_Wars_skit_2016.jpg" alt="Preparing for the 2016 Faculty Skit" width = "768" height = "1024"/>
 		<figcaption>When James first saw Samer in character as ‘Jabba the Hattar,’ he wanted to run away.  Star Wars skit, CMDB Retreat, 2016.</figcaption>
 	</figure>
 </div>
 <div class="box">
 	<figure class = "image1">
-		<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "1026" height = "768"/>
+		<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "1024" height = "768"/>
 		<figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat.  James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption>
 	</figure>
 </div>
@@ -456,7 +456,7 @@ wonderful human being.</p>
 
 <div class="box">
 	<figure class = "image5">
-		<img src="assets/images/James_teaching_award_2019.jpg" alt="2019 Graduate Teaching Award" width = "1044" height = "696"/>
+		<img src="assets/images/James_teaching_award_2019.jpg" alt="2019 Graduate Teaching Award" width = "696" height = "464"/>
 		<figcaption>James receives the 2019 Graduate Teaching Award during our CMDB graduation ceremony.</figcaption>
 	</figure>
 </div>
