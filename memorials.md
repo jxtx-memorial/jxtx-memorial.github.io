@@ -392,7 +392,22 @@ wonderful human being.</p>
 </figure>
 <figure class = "image2">
 	<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
-	<figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat:  James getting into character as ‘James James Binks’, Mark as Yodoren, Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’</figcaption>
+	<figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat: James getting into character as ‘James James Binks’, Mark as ‘Yodoren,’ Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’  Ever the consummate professional, James made a vest for his character by applying duct tape on his shirt.</figcaption>
+</figure>
+
+<figure class = "image3">
+	<img src="assets/images/2016_Skit_Rehearsal2.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "512" height = "684"/>
+	<figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016.</figcaption>
+</figure>
+
+<figure class = "image3">
+	<img src="assets/images/Samer_Star_Wars_skit_2016.jpg" alt="Preparing for the 2016 Faculty Skit" width = "512" height = "684"/>
+	<figcaption>When James first saw Samer in character as ‘Jabba the Hattar,’ he wanted to run away.  Star Wars skit, CMDB Retreat, 2016.</figcaption>
+</figure>
+
+<figure class = "image1">
+	<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "684" height = "512"/>
+	<figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat.  James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption>
 </figure>
 
 </div>
