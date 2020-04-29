@@ -418,7 +418,7 @@ wonderful human being.</p>
 
 <div class="box">
 	<figure class = "image4">
-		<img src="assets/images/2015_CMDB_Retreat_James.png" alt="Preparing for the 2015 CMDB Retreat faculty sketch" width = "702" height = "480"/>
+		<img src="assets/images/2015_CMDB_Retreat_James.png" alt="Preparing for the 2015 CMDB Retreat faculty sketch" width = "983" height = "671"/>
 		<figcaption>Preparing for the 2015 CMDB Retreat faculty skit: ‘Mud Slinging, 2016’ about a debate among the Republican candidates for president.  James played Florida Senator ‘Marco Boobio’ (tag line: “He’s hot and he knows it.“).</figcaption>
 	</figure>
 </div>
