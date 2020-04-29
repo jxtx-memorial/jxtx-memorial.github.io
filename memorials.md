@@ -202,6 +202,12 @@ wonderful human being.</p>
 <h2 id="content">Students, Postdocs, and Staff</h2>
 
 <div class="box">
+	<img src="assets/images/2018Cohort_quotes.png" alt="Quotes from the 2018 cohort"/>
+<!-- <p><span class="image fit"><img src="assets/images/2018Cohort_quotes.png" alt="Quotes from the 2018 cohort"/></span></p> -->
+	<center><figcaption>Compiled by Margaret Starostik</figcaption></center>
+</div>
+
+<div class="box">
 	<p align="justify">There were many qualities that made James stand out besides his flowing hair and excellent choice in shoes. Two that stick with me were his dedication to teaching and his genuine demeanor. In class, James would do his best to standardize intermediate to complex computational theories for a group of students from diverse experience backgrounds. He made every effort to make information accessible to everyone, and you could see the satisfaction in his face when it was clear that people understood. This was well-complemented by his openness to the department. From sitting in his office with the door open and music playing to greetings in the hallway, James maintained a connection to those around him. Some of my favorite moments with James happened at department retreats where he mingled right alongside the grad students and went all-out for his role in the faculty skit. In all facets, James was a great professor and human being. While I’m saddened by his passing, I am thankful to have had the opportunity to get to know such an impactful person. His legacy lives on in the science he created and in the people he impacted along the way.</p>
 	<p><b>—Matt Hurlock</b></p>
 </div>
@@ -370,12 +376,6 @@ wonderful human being.</p>
 </div>
 
 <div class="box">
-	<img src="assets/images/2018Cohort_quotes.png" alt="Quotes from the 2018 cohort"/>
-<!-- <p><span class="image fit"><img src="assets/images/2018Cohort_quotes.png" alt="Quotes from the 2018 cohort"/></span></p> -->
-	<center><figcaption>Compiled by Margaret Starostik</figcaption></center>
-</div>
-
-<div class="box">
 	<p align="justify">James was a terrific teacher and mentor, and I am so thankful for the time I had building that relationship. The more time I spent with James, the more I saw how genuinely fun he was. This was perhaps most obvious to me at the department’s annual retreat, where students and faculty prepare and present skits about life in the program. This past year, the skits followed a Stranger Things theme, and James played Billy, a role he adopted almost seamlessly. Demonstrating his characteristic dedication, James had grown out his facial hair the days leading up to the performance so that he could shave it down to Billy’s distinctive moustache. As the villain, Billy of course has a fitting tattoo of a skull smoking a cigarette on his arm. In turn, James sported a tattoo of something equally spooky: a Hi-C interaction map. Terrifying! </p>
 	<p><b>—Dylan Taylor</b></p>
 </div>
@@ -412,10 +412,12 @@ wonderful human being.</p>
 <header class="major">
 	<h1>Photos</h1>
 </header>
+
+
 <div class="box">
 	<figure class = "image4">
 		<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "983" height = "736"/>
-		<figcaption>James celebrating with the lab after being promoted to full professor.</figcaption>
+		<p><figcaption>James celebrating with the lab after being promoted to full professor.</figcaption></p>
 	</figure>
 </div>
 
@@ -423,7 +425,7 @@ wonderful human being.</p>
 	<span class="image fit" >
 		<figure>
 			<img src="assets/images/2015_retreat.jpeg" alt="James' at the 2015 CMDB retreat"/>
-			<figcaption>CMDB Retreat, 2015.</figcaption>
+			<p><figcaption>CMDB Retreat, 2015.</figcaption></p>
 		</figure>
 	</span>
 </div>
@@ -431,38 +433,42 @@ wonderful human being.</p>
 <div class="box">
 	<figure class = "image4">
 		<img src="assets/images/2015_CMDB_Retreat_James.png" alt="Preparing for the 2015 CMDB Retreat faculty sketch" width = "983" height = "671"/>
-		<figcaption>Preparing for the 2015 CMDB Retreat faculty skit: ‘Mud Slinging, 2016’ about a debate among the Republican candidates for president.  James played Florida Senator ‘Marco Boobio’ (tag line: “He’s hot and he knows it.“).</figcaption>
+		<p><figcaption>Preparing for the 2015 CMDB Retreat faculty skit: ‘Mud Slinging, 2016’ about a debate among the Republican candidates for president. James played Florida Senator ‘Marco Boobio’ (tag line: “He’s hot and he knows it.“).</figcaption></p>
 	</figure>
 </div>
+
 <div class="box">
 	<figure class = "image2">
 		<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
-		<figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat: James getting into character as ‘James James Binks’, Mark as ‘Yodoren,’ Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’  Ever the consummate professional, James made a vest for his character by applying duct tape on his shirt.</figcaption>
+		<p><figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat: James getting into character as ‘James James Binks’, Mark as ‘Yodoren,’ Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’ Ever the consummate professional, James made a vest for his character by applying duct tape on his shirt.</figcaption></p>
 	</figure>
 </div>
+
 <div class="box">
 	<figure class = "image3">
 		<img src="assets/images/2016_Skit_Rehearsal2.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "768" height = "1024"/>
-		<figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016.</figcaption>
+		<p><figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016.</figcaption></p>
 	</figure>
 </div>
+
 <div class="box">
 	<figure class = "image3">
 		<img src="assets/images/Samer_Star_Wars_skit_2016.jpg" alt="Preparing for the 2016 Faculty Skit" width = "768" height = "1024"/>
-		<figcaption>When James first saw Samer in character as ‘Jabba the Hattar,’ he wanted to run away.  Star Wars skit, CMDB Retreat, 2016.</figcaption>
+		<p><figcaption>When James first saw Samer in character as ‘Jabba the Hattar,’ he wanted to run away. Star Wars skit, CMDB Retreat, 2016.</figcaption></p>
 	</figure>
 </div>
+
 <div class="box">
 	<figure class = "image1">
 		<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "1024" height = "768"/>
-		<figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat.  James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption>
+		<p><figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat. James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption></p>
 	</figure>
 </div>
 
 <div class="box">
 	<figure class = "image1">
 		<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "1024" height = "556"/>
-		<figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor.</figcaption>
+		<p><figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor, ‘Master of the Galaxy, Rider of Clouds.’</figcaption></p>
 	</figure>
 </div>
 
@@ -470,12 +476,13 @@ wonderful human being.</p>
 	<span class="image fit" >
 		<figure>
 			<img src="assets/images/James_teaching_award_2019.jpg" alt="2019 Graduate Teaching Award"/>
-			<figcaption>James receives the 2019 Graduate Teaching Award during our CMDB graduation ceremony.</figcaption>
+			<p><figcaption>James receives the 2019 Graduate Teaching Award during our CMDB graduation ceremony.</figcaption></p>
 		</figure>
 	</span>
 </div>
 
 If you have photos of James you would like to be featured on this site, please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>.
+
 
 </div>
 </section>
