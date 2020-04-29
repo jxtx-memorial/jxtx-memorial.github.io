@@ -406,6 +406,14 @@ wonderful human being.</p>
 		<figcaption>James celebrating with the lab after being promoted.</figcaption>
 	</figure>
 </div>
+
+<div class="box">
+	<figure class = "image1">
+		<img src="assets/images/2015_retreat.jpeg" alt="James' at the 2015 CMDB retreat" width = "684" height = "512"/>
+		<figcaption>CMDB Retreat, 2015.</figcaption>
+	</figure>
+</div>
+
 <div class="box">
 	<figure class = "image2">
 		<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "975" height = "529"/>
