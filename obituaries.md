@@ -29,7 +29,7 @@ show_tile: false
 		
         <div class="inner">
             <header class="major">
-                <h1>About James</h1>
+                <h1>jxtx: More than a Galaxy</h1>
             </header>
 			
 			<!-- <h2 id="content">Title pending</h2> -->

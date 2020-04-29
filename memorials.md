@@ -163,6 +163,13 @@ wonderful human being.</p>
 	<b>—Van Moudrianakis</b>
 </div>
 
+<div class="box">
+	<p align="justify">In my last email from James regarding some work issues he said “I’m feeling generous”.  In fact James was always generous.  He was generous with his time, his scientific expertise, and his gratitude.  He loved our department and was very grateful for the faculty, students and staff.  He had found his home. I remember working with him on his very large U54 proposal before he arrived and he was surprised and grateful that we were contacting all the subs on the proposal to alleviate the workload for him.   When I asked him to speak at the Homewood Research Administrators Day he of course accepted and during the speech expressed his gratitude for the staff in Biology as well as for all research administrators.</p>
+	<p align="justify">James was our “rock star” and transformed our department. For that I will be eternally grateful to him.  My deepest sympathy to Meredith ,his family and all of his colleagues.</p>
+	<b>—Cindy Holstein</b>
+</div>
+
+
 <hr class="major" />
 
 
@@ -337,6 +344,19 @@ wonderful human being.</p>
 	<p><b>—Amanda Ray</b></p>
 </div>
 
+<div class="box">
+	<p align="justify">James was a terrific teacher and mentor, and I am so thankful for the time I had building that relationship. The more time I spent with James, the more I saw how genuinely fun he was. This was perhaps most obvious to me at the department’s annual retreat, where students and faculty prepare and present skits about life in the program. This past year, the skits followed a Stranger Things theme, and James played Billy, a role he adopted almost seamlessly. Demonstrating his characteristic dedication, James had grown out his facial hair the days leading up to the performance so that he could shave it down to Billy’s distinctive moustache. As the villain, Billy of course has a fitting tattoo of a skull smoking a cigarette on his arm. In turn, James sported a tattoo of something equally spooky: a Hi-C interaction map. Terrifying! </p>
+	<p><b>—Dylan Taylor</b></p>
+</div>
+
+
+<div class="box">
+	<p align="justify">James was the one of the people in the department that my cohort ended up spending the most time with in our first year, between bootcamp, Friday quant lab, and his inaugural semester of teaching biophysics. Over the course of that year, he slowly altered the course of my PhD. I came into CMDB with almost no coding experience, and James's teaching helped me become me comfortable enough to rotate in and join a computational lab.</p>
+	<p align="justify">James was an amazing teacher. It must have been hard to be constantly explaining genomics to students who had no background in any quantitative field, and to be faced with our confused faces whenever he wrote anything vaguely mathematical on the board. When I half-seriously asked him whether my cohort was doing worse than his undergrad students at understanding his biophysics material, he joked that the main difference was that we complained more. But despite our complaining, he was always patient with us, welcomed our questions, and somehow managed to give all of his explanations in the clearest possible way. Whenever I think about it, I'm still amazed at how well he taught us Markov models, sequence alignment, and other complicated topics when almost none of us even knew probability. His classes were some of the highlights of my first year, and I still remember them fondly, and occasionally reference his carefully typed and LaTeX-formatted notes.</p>
+	<p align="justify">I remember lots of Friday afternoons in quant lab with James, when my classmates and I would struggle with the coding assignment until one of us made a breakthrough and shared it with everyone else. I remember his patient responses to the many questions we asked during lab, his quiet and approving smile in the background when we figured out how to approach a problem and then explained it to our peers, and his genuine happiness whenever we lifted our heads from the nitty-gritty of the Python grind and were excited about what we'd accomplished in class that day. I think he liked and intended that we used those labs to learn through self discovery and helping others. That approach is still my lasting impression of his teaching style: that he helped us develop the tools and knowledge we needed to solve problems on our own. His classes were never easy, and they required time and effort, but he taught them well, and we definitely learned.</p>
+	<p align="justify">When I was choosing a thesis lab, James made the time to listen to my concerns, give thoughtful advice, and quietly encourage me. I would run into him every now and then dropping into the lab to talk with his students, or sitting in the hallway to grind coffee (so that he wouldn't bother people in lab with the noise), or when I passed by his office on my way to the kitchen and heard a truly diverse selection of music coming from his door. I thought he would always be there, sneakers up on his desk, with his door open if I needed advice on science or grad school. I will miss him, and I'm sad to no longer have his guidance. I'm grateful that I had the opportunity to know him and be taught by him for a short time.</p>
+	<p><b>—Stephanie Yan</b></p>
+</div>
 
 <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link">here</a> to contribute your memories of James</p>
 
