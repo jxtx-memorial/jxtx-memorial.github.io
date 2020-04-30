@@ -509,6 +509,20 @@ wonderful human being.</p>
 	</span>
 </div>
 
+
+<div class="box">
+	<img src="assets/images/montage_photos/DSC_1363.jpg" alt=""/>
+	<img src="assets/images/montage_photos/DSC_8376.JPG" alt=""/>
+	<img src="assets/images/montage_photos/James_holding_something_delicious.jpg" alt=""/>
+	<img src="assets/images/montage_photos/james_PSU_1.jpg" alt=""/>
+	<img src="assets/images/montage_photos/james_PSU_2.jpg" alt=""/>
+	<img src="assets/images/montage_photos/laptop.jpg" alt=""/>
+	<img src="assets/images/montage_photos/lecture.jpg" alt=""/>
+	<img src="assets/images/montage_photos/lecture2.jpg" alt=""/>
+	<img src="assets/images/montage_photos/poster.jpg" alt=""/>
+	<img src="assets/images/montage_photos/shoes.jpg" alt=""/>
+</div>
+
 If you have photos of James you would like to be featured on this site, please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>.
 
 
