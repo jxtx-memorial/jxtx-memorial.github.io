@@ -89,7 +89,8 @@ p{
 
 figure {
 	text-align: center;
-    display: inline-block;
+	display: inline-block;
+	object-fit: scale-down;
 	margin: 20px auto; /* adjust as needed */
 }
 figure.image1 {
@@ -107,6 +108,27 @@ figure.image4 {
 figure.image5 {
 	max-width: 1044px; /* demo; set some amount (px or %) if you can */
 }
+figure.image50 {
+	max-width: 50%; /* demo; set some amount (px or %) if you can */
+}
+figure.image60 {
+	max-width: 60%; /* demo; set some amount (px or %) if you can */
+}
+figure.image70 {
+	max-width: 70%; /* demo; set some amount (px or %) if you can */
+}
+figure.image80 {
+	max-width: 80%; /* demo; set some amount (px or %) if you can */
+}
+figure.image90 {
+	max-width: 90%; /* demo; set some amount (px or %) if you can */
+}
+figure.image100 {
+	max-width: 100%; /* demo; set some amount (px or %) if you can */
+}
+
+
+
 figure img {
 	vertical-align: top;
 }

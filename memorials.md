@@ -511,16 +511,36 @@ wonderful human being.</p>
 
 
 <div class="box">
+	<figure class = "image70">
 	<img src="assets/images/montage_photos/DSC_1363.jpg" alt=""/>
+	</figure>
+	<figure class = "image70">
 	<img src="assets/images/montage_photos/DSC_8376.JPG" alt=""/>
+	</figure>
+	<figure class = "image50">
 	<img src="assets/images/montage_photos/James_holding_something_delicious.jpg" alt=""/>
+	</figure>
+	<figure class = "image70">
 	<img src="assets/images/montage_photos/james_PSU_1.jpg" alt=""/>
+	</figure>
+	<figure class = "image70">
 	<img src="assets/images/montage_photos/james_PSU_2.jpg" alt=""/>
+	</figure>
+	<figure class = "image80">
 	<img src="assets/images/montage_photos/laptop.jpg" alt=""/>
+	</figure>
+	<figure class = "image70">
 	<img src="assets/images/montage_photos/lecture.jpg" alt=""/>
+	</figure>
+	<figure class = "image70">
 	<img src="assets/images/montage_photos/lecture2.jpg" alt=""/>
+	</figure>
+	<figure class = "image100">
 	<img src="assets/images/montage_photos/poster.jpg" alt=""/>
+	</figure>
+	<figure class = "image50">
 	<img src="assets/images/montage_photos/shoes.jpg" alt=""/>
+	</figure>
 </div>
 
 If you have photos of James you would like to be featured on this site, please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>.
