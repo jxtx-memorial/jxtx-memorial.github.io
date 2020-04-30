@@ -102,7 +102,7 @@ wonderful human being.</p>
 </div>
 
 <div class="box">
-	<p align="justify">Some lead from above, but the best leaders lead from within by lifting up everyone around them into a strong community. I will miss you dearly my friend and leader James.</p>
+	<p align="justify">There are so many memories from over the years that I dont even know where to begin. In a nutshell, James is amazing. He had a very sharp mind, a keen sense of scientific rigor, and a sophisticated personality. He fought hard for those around him, myself included, to build his community from within. On several occasions, he gently but firmly pushed me to be more ambitious and take on new projects, which lead me to be a better scientist and a better person. Im devasted that we wont be able to do all the things we had talked about. I thought we had more time. He was too young and had decades more ahead of him. I feel like I have lost a brother.</p>
 	<b>—Michael Schatz</b>
 </div>
 
@@ -194,6 +194,13 @@ wonderful human being.</p>
 	<b>—Haiqing Zhao</b>
 </div>
 
+<div class="box">
+	<p align="justify">A few years ago, when Gherman walked into my office asking whether I would be willing to co-mentor him with James Taylor, for his PhD thesis, I was a bit surprised because our research interests could not have been farther apart – humans versus desert microbes …</p>
+	<p align="justify">This was, of course, not taking into consideration James’ broad interests in science, his curiosity, and his generosity. This co-mentorship turned out to be one of the best decisions I ever made. I got to know James, his quiet demeanor hiding a ferocious intelligence, his ability to look at problems from a perspective different than everyone else’s, his willingness to believe in people, and his colorful shoes! I had countless opportunities to witness his incredible patience, gentle guiding, and generosity, not only to students but also to everyone.</p>
+	<p align="justify">James was a gentle soul and a giant. He touched and inspired everyone around him, and he will be dearly missed.</p>
+	<p align="justify">p.s. Gherman graduated this year with 4 first author papers from both labs, each a part of James’ legacy.</p>
+	<b>—Jocelyne DiRuggiero</b>
+</div>
 
 <hr class="major" />
 
@@ -401,6 +408,11 @@ wonderful human being.</p>
 	<b>—Kiara Eldred</b>
 </div>
 
+<div class="box">
+	<p align="justify">James Taylor was one of the reasons I came to Hopkins. He was not only a brilliant scientist but always supportive, encouraging and inspiring to his students. James was very hands-off in his mentoring style but during my rotation he always encouraged me and gave me confidence in what I was doing. He was a very good listener, gave me critical feedback and pointed me in the right direction whenever I needed. Even after my rotation, James supported my wish to continue the project and kept his office open to me. I am forever grateful for the inspiration he provided and will continue to build on his legacy. I will miss him deeply.</p>
+	<b>—Ashley Feng</b>
+</div>
+
 <center>
 	<ul class="actions">
 		<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdO6s-xnuFjByy3tP4AphkLBzO3ValbacWEgMZeXVMX4oSzTA/viewform?usp=sf_link" class="button special fit">Contribute your memories of James</a></li>
@@ -419,6 +431,15 @@ wonderful human being.</p>
 		<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "983" height = "736"/>
 		<p><figcaption>James celebrating with the lab after being promoted to full professor.</figcaption></p>
 	</figure>
+</div>
+
+<div class="box">
+	<span class="image fit" >
+		<figure>
+			<img src="assets/images/2013_CMDB_Retreat.jpg" alt="The 2013 CMDB Retreat"/>
+			<p><figcaption>CMDB Retreat, 2013.</figcaption></p>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
@@ -462,6 +483,13 @@ wonderful human being.</p>
 	<figure class = "image1">
 		<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "1024" height = "768"/>
 		<p><figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat. James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption></p>
+	</figure>
+</div>
+
+<div class="box">
+	<figure class = "image1">
+		<img src="assets/images/2018_Retreat_Table.jpg" alt="The 2018 Retreat" width = "1024" height = "683"/>
+		<p><figcaption>CMDB Retreat, 2018</figcaption></p>
 	</figure>
 </div>
 
