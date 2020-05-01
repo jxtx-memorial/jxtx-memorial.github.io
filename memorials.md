@@ -428,7 +428,7 @@ wonderful human being.</p>
 
 <div class="box">
 	<span class="image fit">
-		<figure class = "image60">
+		<figure class = "image80">
 			<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted"/>
 			<p><figcaption>James celebrating with the lab after being promoted to full professor.</figcaption></p>
 		</figure>
@@ -454,52 +454,66 @@ wonderful human being.</p>
 </div>
 
 <div class="box">
-	<figure class = "image4">
-		<img src="assets/images/2015_CMDB_Retreat_James.png" alt="Preparing for the 2015 CMDB Retreat faculty sketch" width = "983" height = "671"/>
-		<p><figcaption>Preparing for the 2015 CMDB Retreat faculty skit: ‘Mud Slinging, 2016’ about a debate among the Republican candidates for president. James played Florida Senator ‘Marco Boobio’ (tag line: “He’s hot and he knows it.“).</figcaption></p>
-	</figure>
+	<span class="image fit">
+		<figure class = "image70">
+			<img src="assets/images/2015_CMDB_Retreat_James.png" alt="Preparing for the 2015 CMDB Retreat faculty sketch" width = "983" height = "671"/>
+			<p><figcaption>Preparing for the 2015 CMDB Retreat faculty skit: ‘Mud Slinging, 2016’ about a debate among the Republican candidates for president. James played Florida Senator ‘Marco Boobio’ (tag line: “He’s hot and he knows it.“).</figcaption></p>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
-	<figure class = "image2">
-		<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
-		<p><figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat: James getting into character as ‘James James Binks’, Mark as ‘Yodoren,’ Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’ Ever the consummate professional, James made a vest for his character by applying duct tape on his shirt.</figcaption></p>
-	</figure>
+	<span class="image fit">
+		<figure class = "image70">
+			<img src="assets/images/Star_Wars_skit_2016.png" alt="Preparing for the 2016 Faculty Skit" width = "974" height = "688"/>
+			<p><figcaption>Preparing for the Star Wars skit at the 2016 CMDB Retreat: James getting into character as ‘James James Binks’, Mark as ‘Yodoren,’ Samer as ‘Jabba the Hattar,’ and John as ‘Data Fett.’ Ever the consummate professional, James made a vest for his character by applying duct tape on his shirt.</figcaption></p>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
-	<figure class = "image3">
-		<img src="assets/images/2016_Skit_Rehearsal2.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "768" height = "1024"/>
-		<p><figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016.</figcaption></p>
-	</figure>
+	<span class="image fit">
+		<figure class = "image50">
+			<img src="assets/images/2016_Skit_Rehearsal2.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "768" height = "1024"/>
+			<p><figcaption>Rehearsing the Star Wars skit, CMDB Retreat 2016.</figcaption></p>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
-	<figure class = "image3">
-		<img src="assets/images/Samer_Star_Wars_skit_2016.jpg" alt="Preparing for the 2016 Faculty Skit" width = "768" height = "1024"/>
-		<p><figcaption>When James first saw Samer in character as ‘Jabba the Hattar,’ he wanted to run away. Star Wars skit, CMDB Retreat, 2016.</figcaption></p>
-	</figure>
+	<span class="image fit">
+		<figure class = "image50">
+			<img src="assets/images/Samer_Star_Wars_skit_2016.jpg" alt="Preparing for the 2016 Faculty Skit" width = "768" height = "1024"/>
+			<p><figcaption>When James first saw Samer in character as ‘Jabba the Hattar,’ he wanted to run away. Star Wars skit, CMDB Retreat, 2016.</figcaption></p>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
-	<figure class = "image1">
-		<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "1024" height = "768"/>
-		<p><figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat. James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption></p>
-	</figure>
+	<span class="image fit">
+		<figure class = "image80">
+			<img src="assets/images/2016_Skit_Rehearsal1.jpg" alt="Rehearsing for the 2016 Faculty Skit" width = "1024" height = "768"/>
+			<p><figcaption>Rehearsing the Star Wars faculty skit at the 2016 CMDB Retreat. James drew spots all over his arms to get into the character of ‘James James Binks.’</figcaption></p>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
-	<figure class = "image1">
-		<img src="assets/images/2018_Retreat_Table.jpg" alt="The 2018 Retreat" width = "1024" height = "683"/>
-		<p><figcaption>CMDB Retreat, 2018</figcaption></p>
-	</figure>
+	<span class="image fit">
+		<figure class = "image80">
+			<img src="assets/images/2018_Retreat_Table.jpg" alt="The 2018 Retreat" width = "1024" height = "683"/>
+			<p><figcaption>CMDB Retreat, 2018</figcaption></p>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
-	<figure class = "image1">
-		<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "1024" height = "556"/>
-		<p><figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor, ‘Master of the Galaxy, Rider of Clouds.’</figcaption></p>
-	</figure>
+	<span class="image fit">
+		<figure class = "image80">
+			<img src="assets/images/2018_Skit.png" alt="The 2018 Faculty Skit" width = "1024" height = "556"/>
+			<p><figcaption>The faculty skit at the 2018 CMDB retreat. James was playing Thor, ‘Master of the Galaxy, Rider of Clouds.’</figcaption></p>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
