@@ -427,10 +427,12 @@ wonderful human being.</p>
 
 
 <div class="box">
-	<figure class = "image4">
-		<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted" width = "983" height = "736"/>
-		<p><figcaption>James celebrating with the lab after being promoted to full professor.</figcaption></p>
-	</figure>
+	<span class="image fit">
+		<figure class = "image60">
+			<img src="assets/images/James_in_lab.jpeg" alt="James in lab after being promoted"/>
+			<p><figcaption>James celebrating with the lab after being promoted to full professor.</figcaption></p>
+		</figure>
+	</span>
 </div>
 
 <div class="box">
@@ -511,35 +513,41 @@ wonderful human being.</p>
 
 
 <div class="box">
-	<figure class = "image70">
-	<img src="assets/images/montage_photos/DSC_1363.jpg" alt=""/>
-	</figure>
-	<figure class = "image70">
-	<img src="assets/images/montage_photos/DSC_8376.JPG" alt=""/>
+	<figure class = "image50">
+		<img src="assets/images/montage_photos/James_kitchen.jpg" alt=""/>
 	</figure>
 	<figure class = "image50">
-	<img src="assets/images/montage_photos/James_holding_something_delicious.jpg" alt=""/>
+		<img src="assets/images/montage_photos/James_office.jpg" alt=""/>
 	</figure>
 	<figure class = "image70">
-	<img src="assets/images/montage_photos/james_PSU_1.jpg" alt=""/>
+		<img src="assets/images/montage_photos/DSC_1363.jpg" alt=""/>
 	</figure>
 	<figure class = "image70">
-	<img src="assets/images/montage_photos/james_PSU_2.jpg" alt=""/>
+		<img src="assets/images/montage_photos/DSC_8376.JPG" alt=""/>
+	</figure>
+	<figure class = "image50">
+		<img src="assets/images/montage_photos/James_holding_something_delicious.jpg" alt=""/>
+	</figure>
+	<figure class = "image70">
+		<img src="assets/images/montage_photos/james_PSU_1.jpg" alt=""/>
+	</figure>
+	<figure class = "image70">
+		<img src="assets/images/montage_photos/james_PSU_2.jpg" alt=""/>
 	</figure>
 	<figure class = "image80">
-	<img src="assets/images/montage_photos/laptop.jpg" alt=""/>
+		<img src="assets/images/montage_photos/laptop.jpg" alt=""/>
 	</figure>
 	<figure class = "image70">
-	<img src="assets/images/montage_photos/lecture.jpg" alt=""/>
+		<img src="assets/images/montage_photos/lecture.jpg" alt=""/>
 	</figure>
 	<figure class = "image70">
-	<img src="assets/images/montage_photos/lecture2.jpg" alt=""/>
+		<img src="assets/images/montage_photos/lecture2.jpg" alt=""/>
 	</figure>
 	<figure class = "image100">
-	<img src="assets/images/montage_photos/poster.jpg" alt=""/>
+		<img src="assets/images/montage_photos/poster.jpg" alt=""/>
 	</figure>
 	<figure class = "image50">
-	<img src="assets/images/montage_photos/shoes.jpg" alt=""/>
+		<img src="assets/images/montage_photos/shoes.jpg" alt=""/>
 	</figure>
 </div>
 
