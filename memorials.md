@@ -579,13 +579,13 @@ wonderful human being.</p>
 
 If you have photos of James you would like to be featured on this site, please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>.
 
-
+<div>
 <center>
 	<ul class="actions">
 		<li><a href="https://give.communityfunded.com/o/eberly/i/eberly-college-of-science/s/jtech#CommunityI39hubL9i" class="button special fit">Donate to memorial fund</a></li>
 	</ul>
 </center>
-
+</div>
 </div>
 </section>
 
