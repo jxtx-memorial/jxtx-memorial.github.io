@@ -348,7 +348,11 @@ wonderful human being.</p>
 </div>
 
 <div class="box">
-	<img src="assets/images/Justin_Mirazee_submission.jpeg" alt="Justin Mirazee rotation photo" width = "512" height = "684"/>
+	<span class="image fit">
+		<figure class = "image50">
+			<img src="assets/images/Justin_Mirazee_submission.jpeg" alt="Justin Mirazee rotation photo"/>
+		</figure>
+	</span>
 	<p align="justify">I took this picture one night during my fall rotation in James’ lab.  I wanted to keep a record of the mental exercise Kate Weaver encouraged me to do to help me understand a problem in my code.  James instilled a culture of camaraderie in his lab that has stayed with me, and I hope to pass on this generosity to future mentors and peers.</p>
 	<p><b>—Justin Mirazee</b></p>
 </div>
@@ -575,6 +579,12 @@ wonderful human being.</p>
 
 If you have photos of James you would like to be featured on this site, please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>.
 
+
+<center>
+	<ul class="actions">
+		<li><a href="https://give.communityfunded.com/o/eberly/i/eberly-college-of-science/s/jtech#CommunityI39hubL9i" class="button special fit">Donate to memorial fund</a></li>
+	</ul>
+</center>
 
 </div>
 </section>
