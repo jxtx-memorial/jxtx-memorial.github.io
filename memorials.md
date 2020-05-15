@@ -576,16 +576,22 @@ wonderful human being.</p>
 		<img src="assets/images/montage_photos/shoes.jpg" alt=""/>
 	</figure>
 </div>
+<div class = "box">
+	If you have photos of James you would like to be featured on this site, please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>.
+</div>
 
-If you have photos of James you would like to be featured on this site, please send them to <a href = "mailto: jxtx.bio.memorial@gmail.com">jxtx.bio.memorial@gmail.com</a>.
-
-<div>
-<center>
+<section>
+<div class = "box">
+	<header class="major">
+		<h2>Donate</h2>
+	</header>
+	<p>A memorial fund has been established in honor of James. Junior Training and Educational Connections Hotspot (JTech) will promote training and mentoring of junior faculty and students in computational biology. We invite you to donate to support this cause.</p>
 	<ul class="actions">
 		<li><a href="https://give.communityfunded.com/o/eberly/i/eberly-college-of-science/s/jtech#CommunityI39hubL9i" class="button special fit">Donate to memorial fund</a></li>
 	</ul>
-</center>
 </div>
+</section>
+
 </div>
 </section>
 
